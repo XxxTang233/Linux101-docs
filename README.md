@@ -1,7 +1,7 @@
 # [Linux 101 Docs](https://101.lug.ustc.edu.cn/)
 
 
-
+a
 ## 如何构建？
 
 1. （建议）使用 `python3 -m venv venv` 创建虚拟环境，`. venv/bin/activate` 进入虚拟环境；
