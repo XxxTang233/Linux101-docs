@@ -17,7 +17,7 @@ jobs:
       run: |
         mkdocs -v build
         : > site/.nojekyll
-        echo -n '101.ustclug.org' > site/CNAME
+        echo -n 'xxxtang233.github.io' > site/CNAME
     - name: Deploy to GitHub Pages
       run: |
         CINFO="$(git log -1 --pretty="%an: [%h] %s")"
